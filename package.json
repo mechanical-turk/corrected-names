@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/keremkazan/corrected-names/issues"
   },
-  "homepage": "https://github.com/keremkazan/corrected-names#readme"
+  "homepage": "https://github.com/keremkazan/corrected-names#readme",
+  "dependencies": {
+    "camelcase": "^3.0.0",
+    "decamelize": "^1.2.0",
+    "uppercamelcase": "^1.1.0"
+  }
 }

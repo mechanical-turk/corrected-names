@@ -1,0 +1,26 @@
+{
+  "name": "corrected-names",
+  "version": "1.0.0",
+  "description": "given a string, returns an object with its camelCaseName, PascalCaseName, underscored_name, dashed_name and the original input string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keremkazan/corrected-names.git"
+  },
+  "keywords": [
+    "camelCase",
+    "pascalCase",
+    "underscored",
+    "dashed",
+    "corrected"
+  ],
+  "author": "Kerem Kazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keremkazan/corrected-names/issues"
+  },
+  "homepage": "https://github.com/keremkazan/corrected-names#readme"
+}
